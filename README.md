@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouassima-dihaj&show_icons=true&locale=en&layout=compact" alt="ouassima-dihaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouassima-dihaj&show_icons=true&locale=en" alt="ouassima-dihaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouassima-dihaj&" alt="ouassima-dihaj" /></p>
