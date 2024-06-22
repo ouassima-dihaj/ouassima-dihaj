@@ -45,19 +45,15 @@
 
 ## GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px">
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+
+ 
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Ouassima's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ouassima-dihaj&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
-    </a>
-    <br/>
+  <p>
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouassima-dihaj&layout=compact&theme=tokyonight" alt="Ouassima's Top Languages" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouassima-dihaj&layout=compact&theme=tokyonight" alt="Ouassima's Top Languages" width="1000px" height="180"/>
     <br/>
   </p>
-</details>
+
 
 <br/>
 
