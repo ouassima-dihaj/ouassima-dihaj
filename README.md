@@ -64,7 +64,7 @@
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>
-## 🏆 GitHub Trophies
+<h3> 🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ouassima-dihaj&theme=dracula&no-frame=true&no-bg=true&column=1&title=MultiLanguage" />
