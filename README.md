@@ -6,9 +6,8 @@
 
 <h3>About Me</h3>
 
-- 🔭 I’m currently working on **OnlineShop**
-- 👯 I’m looking to collaborate on **React.js projects**
-- 💬 Ask me about **Java, JavaScript, React.js**
+- 🔭 I’m currently learning on **Cloud Computing ☁ **
+- 💬 Ask me about **Java,JEE, JavaScript, React.js,Angular**
 
 <h3>Tech Stack<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h3>
 <p align="left"> 
