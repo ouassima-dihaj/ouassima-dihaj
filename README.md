@@ -36,7 +36,7 @@
 <p align="center">
   <!-- Display most used languages and GitHub trophies -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouassima-dihaj&layout=compact&theme=tokyonight" alt="Ouassima's Top Languages" width="400px"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ouassima-dihaj&theme=dracula&no-frame=true&no-bg=true&column=3&title=MultiLanguage,Commits,Repositories,Stars" alt="GitHub Trophies" width="600px"/>
+ 
 </p>
 
 ---
