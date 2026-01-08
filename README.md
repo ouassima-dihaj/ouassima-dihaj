@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I’m Ouassima Dihaj <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=24&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineering+Student;Crafting+Code+and+Solutions" />
-</p>
 
 ---
 
